@@ -21,7 +21,9 @@ p {
  }
 
  #content {
-     margin: 0 200px 0 0;
+      position: relative;
+     top: 0px
+         right: 0px;
  }
 
  #content .inner {
