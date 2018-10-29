@@ -21,9 +21,10 @@ p {
  }
 
  #content {
-     
+     float: right; 
+     position: relative;
      top: 0px;
-     right: 0px;
+    right: 0px;
  }
 
  #content .inner {
